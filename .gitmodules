@@ -1,0 +1,3 @@
+[submodule "vcpkg"]
+	path = vcpkg
+	url = git@github.com:creel904/vcpkg.git
